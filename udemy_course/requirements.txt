@@ -1,6 +1,0 @@
-qiwipy
-pyqrcode
-pypng
-aiogram<3.0
-aiohttp==3.6.2
-aioredis<2.0
